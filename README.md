@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML where a hidden element is not re-displayed. The bug is present in `bug.html`. The solution is provided in `bugSolution.html`.
